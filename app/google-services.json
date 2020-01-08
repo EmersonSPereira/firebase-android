@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763737159841",
+    "firebase_url": "https://projeto-teste-c9750.firebaseio.com",
+    "project_id": "projeto-teste-c9750",
+    "storage_bucket": "projeto-teste-c9750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763737159841:android:7aa79d80de9cac3e0e58e0",
+        "android_client_info": {
+          "package_name": "com.example.exemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763737159841-qd35a7lshm9mo90soq2p2p7o893fn97v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_hxmDcQ9VMTLanOiQLD_zk3pOoC4Orc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763737159841-qd35a7lshm9mo90soq2p2p7o893fn97v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
